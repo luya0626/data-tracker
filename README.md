@@ -3,11 +3,9 @@
 一个轻量级 Web 应用，帮助你在本地记录和可视化多条数据线的变化趋势。数据存储在本地 SQLite 数据库中，无需联网，安全私密。
 
 ## 截图
-
-> 在此处添加应用截图
 >
-> ![主界面](screenshots/main.png)
-> ![数据录入](screenshots/data-entry.png)
+><img width="1246" height="602" alt="image" src="https://github.com/user-attachments/assets/30d905f3-158a-4355-b467-8ce088844a1e" />
+
 
 ## 功能
 
